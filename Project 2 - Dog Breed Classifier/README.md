@@ -1,7 +1,7 @@
-#Project 2: Convolutional Neural Networks
+# Project 2: Convolutional Neural Networks
 
 
-###Project Overview
+### Project Overview
 
 Welcome to the Convolutional Neural Networks (CNN) project! In this project, I built a pipeline to process real-world, user-supplied images.
 Given an image of a dog, I will identify an estimate of the canine’s breed. If supplied an image of a human,
