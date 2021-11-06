@@ -1,7 +1,7 @@
 # Udacity Deep Learning Nanodegree
 
 ### Introduction  
-> Get first taste of deep learning by applying style transfer to your own images, and gain experience using development tools such as Anaconda and Jupyter notebooks.
+Get first taste of deep learning by applying style transfer to your own images, and gain experience using development tools such as Anaconda and Jupyter notebooks.
  
 ### Neural Networks  
 Learn neural networks basics, and build first network with Python and NumPy. Use the modern deep learning framework PyTorch to build multi-layer neural networks, and analyze real data.
