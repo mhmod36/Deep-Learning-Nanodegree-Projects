@@ -1,6 +1,6 @@
-# Deep-Learning-Nanodegree-Udacity
+# Udacity Deep Learning Nanodegree
 
-## Introduction  
+### Introduction  
 > Get first taste of deep learning by applying style transfer to your own images, and gain experience using development tools such as Anaconda and Jupyter notebooks.
  
 ## Neural Networks  
